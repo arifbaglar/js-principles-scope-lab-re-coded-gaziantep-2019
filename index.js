@@ -5,3 +5,6 @@ function upperCaseCustomerName(){
   
 }
 
+function setBestCustomer(){
+  
+}
